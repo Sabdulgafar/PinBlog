@@ -1,0 +1,23 @@
+{
+  "name": "pinblog",
+  "version": "1.0.0",
+  "description": "A personal blog built with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabdulgafar/PinBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sabdulgafar/PinBlog/issues"
+  },
+  "homepage": "https://github.com/Sabdulgafar/PinBlog#readme",
+  "dependencies": {
+    "create-react-app": "^5.1.0"
+  }
+}
